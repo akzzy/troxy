@@ -1,0 +1,11 @@
+{
+    "name": "Troxy",
+    "description": "Fastest proxy using only nginx as the backend server",
+    "repository": "https://github.com/akzzy/troxy",
+    "logo": "https://image.freepik.com/free-vector/soccer-logo-green-background_1306-65.jpg",
+    "keywords": [
+        "nginx",
+        "docker"
+    ],
+    "stack": "container"
+}
